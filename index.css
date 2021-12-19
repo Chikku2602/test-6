@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(97, 139, 139);
+}
+#img1{
+    width:100px;
+    position:absolute;
+     left: 100px;
+     top:100px;
+     right: 100px;
+     bottom: 100px;
+
+}
+.container{
+    margin-left: 100px;
+    margin-top: 0px;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
